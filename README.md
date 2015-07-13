@@ -22,7 +22,7 @@ QueProponenMDQ!
 **Agradecimientos**
 -------------
 
-> - [Partido de la Red](partidodelared.org) por generar [QueProponen](queproponen.com.ar)
+> - [Partido de la Red](http://partidodelared.org) por generar [QueProponen](http://queproponen.com.ar)
 > - Lucia Fernanda Martin por la carga de propuestas.
 > - Equipo tecnico del PdR MDQ liderado por Gonzalo Benoffi que desarollo la app.
 
